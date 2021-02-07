@@ -1,0 +1,14 @@
+* {
+  margin: 1.5%;
+}
+img {
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.titleRed {
+  text-transform: uppercase;
+  background-color: lightgrey;
+  text-align: center;
+}
